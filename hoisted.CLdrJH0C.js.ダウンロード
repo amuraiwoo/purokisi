@@ -1,0 +1,1 @@
+import{p as i}from"./events.B_LcBSsC.js";import{n as o}from"./hoisted.Trl-Egcw.js";import"./index.CfWw5B3X.js";import"./types.CFIYXINY.js";function t(){try{return window.self!==window.top}catch{return!0}}i((()=>{t()||(console.log("Assuming request isn't coming from iFrame. Redirecting..."),o("/"))}));
